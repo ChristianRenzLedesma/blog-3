@@ -1,0 +1,31 @@
+a{
+    color: black;
+    text-decoration: none;
+}
+.portfolio{
+    margin-top: -20px;
+    margin-left: 1000px;
+}
+.Posts{
+    margin-top: 40px;
+}
+.date{
+    margin-bottom: 60px;
+}
+.date a{
+    border: 2px solid;
+    padding: 5px;
+    margin-left: 800px;
+}
+.date a:hover{
+    border: 2px solid;
+    padding: 5px;
+    background-color: blue;
+}
+.last{
+   margin-left: 850px;
+}
+
+i{
+    color: red;
+}
